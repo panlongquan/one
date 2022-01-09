@@ -1,4 +1,4 @@
-package com.pp.putils2
+package com.pp.putils
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

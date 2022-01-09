@@ -1,4 +1,4 @@
-package com.pp.putils2;
+package com.pp.putils;
 
 public class PUtils {
 
